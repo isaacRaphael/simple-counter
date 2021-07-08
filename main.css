@@ -16,6 +16,8 @@ body {
     text-transform: uppercase;
     color: #fff;
     font-family: sans-serif;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .container {
